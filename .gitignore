@@ -1,0 +1,12 @@
+# Maven
+target/
+
+# IDE
+.vscode/
+.idea/
+
+# Compiled files
+*.class
+
+# Environment / secrets
+.env
